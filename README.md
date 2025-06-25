@@ -12,12 +12,13 @@
 
 ---
 
-### 💼 What I Do
-- 🧠 Building **Zerlla** — a multi-tenant AI-powered platform for businesses + Social Commerce
-- 🔁 Engineering **self-correcting trading bots** with Smart Money Concepts, Volume Profile, and AI
-- 🧱 Architecting scalable infra using **Node.js**, **PostgreSQL**, **Docker**, **Kubernetes**
-- 🔒 Championing **secure coding** via **SAST**, **DAST**, and automated GitHub workflows
-- 🌎 Working across time zones with 5+ hours of PST overlap
+###🧱 Backend & DevOps Engineer – Building scalable systems with Node.js, PostgreSQL, Docker, and Kubernetes
+🔒 Secure Development Advocate – Implementing OAuth2, JWT, SAST/DAST tooling, and GitHub-secured CI/CD pipelines
+💸 Payment & Fintech Integrations – Experience with Monnify, Paystack, Stripe, and custom payment workflows
+🔗 Blockchain-Ready Developer – Smart contract interactions using Ethers.js and Web3.js, plus wallet integrations
+🤖 AI Infrastructure – Developed data pipelines and backend systems for Nigerian-centric LLMs and annotation platforms
+🌍 Remote-ready with 5+ hour PST overlap
+
 
 ---
 
